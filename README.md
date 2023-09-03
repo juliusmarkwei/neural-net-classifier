@@ -7,4 +7,4 @@ I used a dummy data for both training, testing and validation.
 4. Finally, I made some demonstration of how to save a and load model using the default save method of keras model
    and also how to save a model with and without it's weights.
 
-### Author: Julius Markwei
+ <h4>Author: Julius Markwei</h4>
